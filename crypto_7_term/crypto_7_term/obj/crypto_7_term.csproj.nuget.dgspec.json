@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\79163\\Documents\\GitHub\\7 term\\crypto\\crypto_7_term\\crypto_7_term\\crypto_7_term.csproj": {}
+    "C:\\Users\\79163\\OneDrive\\Документы\\GitHub\\7 term\\crypto\\crypto_7_term\\crypto_7_term\\crypto_7_term.csproj": {}
   },
   "projects": {
-    "C:\\Users\\79163\\Documents\\GitHub\\7 term\\crypto\\crypto_7_term\\crypto_7_term\\crypto_7_term.csproj": {
+    "C:\\Users\\79163\\OneDrive\\Документы\\GitHub\\7 term\\crypto\\crypto_7_term\\crypto_7_term\\crypto_7_term.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\79163\\Documents\\GitHub\\7 term\\crypto\\crypto_7_term\\crypto_7_term\\crypto_7_term.csproj",
+        "projectUniqueName": "C:\\Users\\79163\\OneDrive\\Документы\\GitHub\\7 term\\crypto\\crypto_7_term\\crypto_7_term\\crypto_7_term.csproj",
         "projectName": "crypto_7_term",
-        "projectPath": "C:\\Users\\79163\\Documents\\GitHub\\7 term\\crypto\\crypto_7_term\\crypto_7_term\\crypto_7_term.csproj",
+        "projectPath": "C:\\Users\\79163\\OneDrive\\Документы\\GitHub\\7 term\\crypto\\crypto_7_term\\crypto_7_term\\crypto_7_term.csproj",
         "packagesPath": "C:\\Users\\79163\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\79163\\Documents\\GitHub\\7 term\\crypto\\crypto_7_term\\crypto_7_term\\obj\\",
+        "outputPath": "C:\\Users\\79163\\OneDrive\\Документы\\GitHub\\7 term\\crypto\\crypto_7_term\\crypto_7_term\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

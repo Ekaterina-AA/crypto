@@ -1,0 +1,15 @@
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\bin\Debug\net8.0\crypto_7_term.exe
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\bin\Debug\net8.0\crypto_7_term.deps.json
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\bin\Debug\net8.0\crypto_7_term.runtimeconfig.json
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\bin\Debug\net8.0\crypto_7_term.dll
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\bin\Debug\net8.0\crypto_7_term.pdb
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\obj\Debug\net8.0\crypto_7_term.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\obj\Debug\net8.0\crypto_7_term.AssemblyInfoInputs.cache
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\obj\Debug\net8.0\crypto_7_term.AssemblyInfo.cs
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\obj\Debug\net8.0\crypto_7_term.csproj.CoreCompileInputs.cache
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\obj\Debug\net8.0\crypto_7_term.sourcelink.json
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\obj\Debug\net8.0\crypto_7_term.dll
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\obj\Debug\net8.0\refint\crypto_7_term.dll
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\obj\Debug\net8.0\crypto_7_term.pdb
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\obj\Debug\net8.0\crypto_7_term.genruntimeconfig.cache
+C:\Users\79163\OneDrive\Документы\GitHub\7 term\crypto\crypto_7_term\crypto_7_term\obj\Debug\net8.0\ref\crypto_7_term.dll
